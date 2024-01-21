@@ -1,0 +1,26 @@
+/* Write your CSS code here */
+.item {
+  width: 60vw;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.each {
+  display: flex;
+  align-items: center;
+}
+.p {
+  margin-left: 10px;
+}
+.logo {
+  height: 30px;
+  width: 40px;
+}
+
+.each2 {
+  width: 17vw;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}

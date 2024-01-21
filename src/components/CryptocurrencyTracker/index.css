@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.bg {
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: aliceblue;
+  padding: 30px;
+}
+.heading {
+  color: #00e7ff;
+  text-align: center;
+  font-size: 40px;
+}
+.bg1 {
+  padding: 20px;
+}
+
+.img {
+  height: 40vh;
+  width: 100%;
+}
